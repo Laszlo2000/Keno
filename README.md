@@ -73,7 +73,3 @@ For example, if the player had 3 matches in a game of type 2, the prize multipli
 
 - **Developed by**: [Ilonczai László]
 - **Language**: C++
-
----
-
-This `README.md` gives an overview of the game, steps to run it, a detailed function breakdown, and prize logic, making it ready for GitHub. Let me know if you'd like any changes or additional details!

@@ -71,5 +71,5 @@ For example, if the player had 3 matches in a game of type 2, the prize multipli
 
 ## Credits
 
-- **Developed by**: [Ilonczai László]
+- **Developed by**: Ilonczai László
 - **Language**: C++
